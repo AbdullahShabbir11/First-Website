@@ -1,0 +1,43 @@
+body {
+    background-color: #ffe4c4;
+}
+
+header {
+    text-align: center;
+    background-color: burlywood;
+}
+
+h1 {
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+a {
+    font-size: larger;
+    font-style: italic;
+}
+
+h2 {
+
+    background-color: rgba(182, 139, 0, 0.5);
+    text-decoration: underline;
+    display: inline;
+}
+
+img {
+    width: auto;
+    height: auto;
+    background-color: gray;
+    display: inline;
+}
+
+ul,
+details {
+    font-style: italic;
+    font-size: larger;
+}
+
+p {
+    font-size: large;
+}
