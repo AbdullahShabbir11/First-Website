@@ -1,2 +1,2 @@
 # First-Website
-This is my first website that i created while learning HTML/CSS from coursera.
+This is the final project of introduction to HTML course on coursera.
