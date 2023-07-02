@@ -3,19 +3,47 @@ body {
 }
 
 header {
+    /* border-style: solid; */
     text-align: center;
     background-color: burlywood;
+    padding-bottom: 0.5%;
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 2%;
 }
 
 h1 {
+    /* border-style: solid; */
     color: darkolivegreen;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline;
+    margin-top: 0%;
 }
 
 a {
+    /* border-style: solid; */
     font-size: larger;
     font-style: italic;
+}
+
+section {
+    /* border-style: solid; */
+    width: 30%;
+    margin-right: 1%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+    display: block;
+    float: left;
+}
+
+.favourite-food-section {
+    width: 24%;
+    margin-left: 1%;
+}
+
+.achievement-section {
+    width: 40%;
 }
 
 h2 {
@@ -23,6 +51,12 @@ h2 {
     background-color: rgba(182, 139, 0, 0.5);
     text-decoration: underline;
     display: inline;
+}
+
+footer {
+    /* border-style: solid; */
+    margin-left: -2%;
+    clear: both;
 }
 
 img {
